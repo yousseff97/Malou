@@ -8,7 +8,7 @@
   <h3 align="center">Test Technique Malou</h3>
 
   <p align="center">
-    <a href="#">View Demo (Will Be Added Later)</a>
+    <a href="https://maloutestfront.azurewebsites.net/">View Live Demo</a>
   </p>
 </p>
 
@@ -48,10 +48,6 @@ Pour obtenir une copie locale, suivez ces étapes.
 * npm
 ```sh
 npm install npm@latest -g
-```
-* mocha (optional)
-```sh
-npm install mocha -g
 ```
 
 ### Installation
