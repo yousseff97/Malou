@@ -4,7 +4,7 @@
   "description": "Test Technique Malou",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon ./app.js",
+    "start": "node ./app.js",
     "test": "mocha test/posts.js --timeout 5000"
   },
   "author": "",
@@ -17,7 +17,7 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "chai-http": "^2.0.1",
-    "mocha": "^8.2.5",
+    "mocha": "latest",
     "nodemon": "^1.11.0"
   }
 }
