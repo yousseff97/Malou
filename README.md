@@ -83,9 +83,7 @@ npm install
 npm start
 ```
 6. Visit http://localhost:4200/
-```js
-npm start
-```
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
