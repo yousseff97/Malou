@@ -9,7 +9,7 @@
 
 <body>
 
-  <app-toolbar (dateChange)="displayDate($event)" ></app-toolbar>
+  <app-toolbar (dateChange)="loadPosts($event)" ></app-toolbar>
 
   <mat-grid-list cols="3" rowHeight="800px">
     <mat-grid-tile *ngFor="let post of posts">

@@ -26,7 +26,7 @@ export class AppComponent implements OnInit {
     this.subscriptions.push(sub);
   }
 
-  displayDate(event) {
+  loadPosts(event) {
     this.unsubscribe();
     this.deleteAllPosts();
     this.getPosts(event.value);
