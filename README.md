@@ -67,7 +67,7 @@ cd MalouTestBack
 ```sh
 npm install
 ```
-3. Install NPM packages for BackEnd
+3. Start BackEnd App
 ```sh
 npm start
 ```
@@ -78,8 +78,12 @@ cd MalouTestFront
 ```sh
 npm install
 ```
-5. Install NPM packages for FrontEnd
+5. Start FrontEnd App
 ```sh
+npm start
+```
+6. Visit [http://localhost:4200/]: http://localhost:4200/
+```js
 npm start
 ```
 
