@@ -49,7 +49,7 @@ Pour obtenir une copie locale, suivez ces étapes.
 ```sh
 npm install npm@latest -g
 ```
-* mocha (optionnel)
+* mocha (optional)
 ```sh
 npm install mocha -g
 ```
