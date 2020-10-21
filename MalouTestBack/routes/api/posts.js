@@ -1,6 +1,6 @@
 var router = require('express').Router();
 const axios = require('axios')
-const { getToken } = require('../../oath')
+const { getToken } = require('../../auth')
 
 // return a list of tags
 router.get('/:date', async function (req, res, next) {

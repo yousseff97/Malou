@@ -15,4 +15,6 @@ app.use(routes);
 var server = app.listen( process.env.PORT || port, function(){
     console.log('Listening on port ' + server.address().port);
   });
+
+module.exports = server;
   
