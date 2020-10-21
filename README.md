@@ -82,7 +82,7 @@ npm install
 ```sh
 npm start
 ```
-6. Visit [http://localhost:4200/]: http://localhost:4200/
+6. Visit http://localhost:4200/
 ```js
 npm start
 ```
