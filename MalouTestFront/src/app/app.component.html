@@ -1,0 +1,19 @@
+<html>
+
+<head>
+
+</head>
+
+<body>
+
+  <app-toolbar (dateChange)="displayDate($event)" ></app-toolbar>
+
+  <mat-grid-list cols="3" rowHeight="800px">
+    <mat-grid-tile *ngFor="let post of posts">
+      <app-post [post]="post"></app-post>
+    </mat-grid-tile>
+  </mat-grid-list>
+</body>
+
+
+</html>

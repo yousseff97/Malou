@@ -1,0 +1,11 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+  ::ng-deep .mat-datepicker-toggle{
+    color:white;
+ }
+ .app-date-picker-margin-top
+ {
+margin-top: 25px;
+ }
