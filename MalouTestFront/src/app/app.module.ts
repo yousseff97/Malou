@@ -9,12 +9,12 @@ import { MatIconModule } from '@angular/material/icon'
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatNativeDateModule } from '@angular/material/core';
 import { MatInputModule } from '@angular/material/input';
-import { PostComponent } from './post/post.component';
+import { PostComponent } from './_components/post/post.component';
 import { FormsModule,ReactiveFormsModule  } from '@angular/forms';
 import {MatToolbarModule} from '@angular/material/toolbar';
 import { MatButtonModule } from '@angular/material/button';
-import { ToolbarComponent } from './toolbar/toolbar.component';
-import { DatePickerComponent } from './date-picker/date-picker.component';
+import { ToolbarComponent } from './_components/toolbar/toolbar.component';
+import { DatePickerComponent } from './_components/date-picker/date-picker.component';
 import {MatCardModule} from '@angular/material/card';
 import {MatGridListModule} from '@angular/material/grid-list';
 import { HttpClientModule, HttpClient } from '@angular/common/http';
